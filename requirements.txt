@@ -1,6 +1,6 @@
 ipywidgets
 pandas
 numpy
-matplotlib.pyplot
+matplotlib
 json
 uk_covid19
